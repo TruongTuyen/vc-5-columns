@@ -1,0 +1,8 @@
+.wpb_column.vc_column_container[class*="24/10"]{
+    width: 20%;
+    float: left;
+}
+
+@media (min-width: 768px) {
+	
+}
